@@ -16,7 +16,7 @@ I am a developer from Voronezh. Previously, I worked on Python projects - writin
 </div>
 
 ## 🖥 Skills
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,git,figma,vscode&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,cypress,jest,webpack,git,vscode&theme=dark&perline=6)](https://skillicons.dev)
 
 
 ## 📊Statistics
