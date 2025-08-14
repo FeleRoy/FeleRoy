@@ -4,6 +4,7 @@ I am a developer from Voronezh. Previously, I worked on Python projects - writin
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBiY3hmMzc3Nm9heXE2eG5xZGVwanV3Y2FraThkbTRkb2JiaGdhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="600" height="300"/>
 </div>
+
 ## ✉️ Contact info:
 <div id="badges">
    <a href="https://t.me/FeleRoy">
