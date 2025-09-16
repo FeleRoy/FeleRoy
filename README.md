@@ -6,14 +6,8 @@ I am a developer from Voronezh. Previously, I worked on Python projects - writin
 </div>
 
 ## ✉️ Contact info:
-<div id="badges">
-   <a href="https://t.me/FeleRoy">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-   <a href="mailto:vitya.baratov@gmail.com">
-    <img src="https://img.shields.io/badge/email-blue?style=for-the-badge" alt="Email"/>
-  </a>
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-348FEB?style=for-the-badge&logo=telegram&logoColor=FFFFFF)]([https://t.me/FeleRoy])
+[![E-mail](https://img.shields.io/badge/email-348FEB?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:vitya.baratov@gmail.com)
 
 ## 🖥 Skills
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,cypress,jest,webpack,git,docker,vscode&theme=dark&perline=6)](https://skillicons.dev)
