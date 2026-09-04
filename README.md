@@ -6,7 +6,7 @@ I am a developer from Voronezh. Previously, I worked on Python projects - writin
 </div>
 
 ## ✉️ Contact info:
-[![Telegram](https://img.shields.io/badge/Telegram-348FEB?style=for-the-badge&logo=telegram&logoColor=FFFFFF)]([https://t.me/FeleRoy])
+[![Telegram](https://img.shields.io/badge/Telegram-348FEB?style=for-the-badge&logo=telegram&logoColor=FFFFFF)]([https://t.me/viktor_baratov])
 [![E-mail](https://img.shields.io/badge/email-348FEB?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:vitya.baratov@gmail.com)
 
 ## 🖥 Skills
